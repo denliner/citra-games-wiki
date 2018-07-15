@@ -1,0 +1,9 @@
+title = "Aikatsu Stars! My Special Appeal"
+description = "Aikatsu Stars! My Special Appeal  is a 3D rhythm game developed and published by Bandai Namco Games"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000197200"
+region = "jpn"
+release_date = "2016-11-24"
