@@ -1,5 +1,5 @@
 title = "Aikatsu Stars! My Special Appeal"
-description = "Aikatsu Stars! My Special Appeal  is a 3D rhythm game developed and published by Bandai Namco Games"
+description = "Aikatsu Stars! My Special Appeal is a 3D rhythm game developed and published by Bandai Namco Games. The game is the fifth entry in the Aikatsu series. It had a free-to-play version called \"Aikatsu Stars! First Appeal\"."
 needs_system_files = false
 needs_shared_font = false
 
@@ -7,3 +7,8 @@ needs_shared_font = false
 title = "0004000000197200"
 region = "jpn"
 release_date = "2016-11-24"
+
+[[releases]]
+title = "0004000000197F00"
+region = "jpn"
+release_date = "2016-07-20"
